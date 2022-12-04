@@ -10,9 +10,9 @@ El Deep Learning ha demostrado ser mejor en la detección y clasificación de en
 
 El cancer de piel puede ser detectado de forma mas precisa gracias al Deep Learning que por los dermatologos (2018).
 
-- Deteccién por parte de dermatdlogos = 86.6%
+- Detección por parte de dermatdlogos = 86.6%
 
-- Deteccién por Deep Learning = 95%
+- Detección por Deep Learning = 95%
 
 Referencia: “Computer learns to detect skin cancer more accurately than doctors". The Guardian. 29 May 2018 
 

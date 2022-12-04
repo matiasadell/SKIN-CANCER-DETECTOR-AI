@@ -1,4 +1,4 @@
-# MAGNETIC RESONANCE TUMOR DETECTOR | AI
+# Skin Cancer Detector | AI
 
 ### Introduccion
 La Inteligencia Artificial ha revolucionado la medicina y la salud:

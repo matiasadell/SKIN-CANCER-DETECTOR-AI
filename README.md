@@ -1,6 +1,6 @@
-# Skin Cancer Detector | AI
+# Skin Cancer Detector | IA
 
-### Introduccion
+### Introducción
 La Inteligencia Artificial ha revolucionado la medicina y la salud:
 - Imagenes médicas
 - Investigación en medicina
